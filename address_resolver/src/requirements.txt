@@ -1,5 +1,4 @@
 blinker==1.4
-certifi==2018.10.15
 Click==7.0
 -e git://github.com/elastic/apm-agent-python.git@f28dcb9217dc5bc7c43b29f510e3f4c06f2b100e#egg=elastic_apm
 elasticsearch==6.3.1
